@@ -8,4 +8,3 @@ The technique used to build this recommendation system is FEATURE EXTRACTION, wh
 
 # OUTPUT
 
-https://github.com/dvamsidhar2002/Movie-Recommendation-System-using-Feature-Extraction/blob/4a7970015f882e0ffa1b15f8f3ec813aabca4f5a/Result.png
