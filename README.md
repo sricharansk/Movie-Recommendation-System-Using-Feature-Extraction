@@ -8,3 +8,6 @@ The technique used to build this recommendation system is FEATURE EXTRACTION, wh
 
 # OUTPUT
 
+<img src = 'Result.png' alt = 'Result'>
+
+Link to the tutorial for this project is : https://www.youtube.com/watch?v=7rEagFH9tQg&t=1097s
