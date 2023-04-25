@@ -8,3 +8,4 @@ The technique used to build this recommendation system is FEATURE EXTRACTION, wh
 
 # OUTPUT
 
+Result.png
